@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><g fill="none"><path fill="#474F54" d="M64 0v41.25l-3.75 3.875H3.75L0 41.25V0z"/><path fill="#32393F" d="M64 0v41.25l-3.75 3.875H32V0z"/><path fill="#DADAE5" d="M22.625 50.875h18.75v11.25h-18.75z"/><path fill="#C9C9D3" d="M32 50.875h9.375v11.25H32z"/><path fill="#EFEFF4" d="M0 41.25h64v11.5H0z"/><path fill="#DADAE5" d="M32 41.25h32v11.5H32z"/><path fill="#EFEFF4" d="M15.125 60.25h33.75V64h-33.75z"/><path fill="#DADAE5" d="M32 60.25h16.875V64H32z"/><path fill="#549EF2" d="M20.75 7.5c-7.236 0-13.125 5.889-13.125 13.125S13.514 33.75 20.75 33.75s13.125-5.889 13.125-13.125S27.986 7.5 20.75 7.5zm0 18.75a5.631 5.631 0 01-5.625-5.625A5.631 5.631 0 0120.75 15a5.631 5.631 0 015.625 5.625 5.631 5.631 0 01-5.625 5.625z"/><g fill="#377FD2"><path d="M45.125 7.5H56.5v3.75H45.125zM37.625 7.5h3.75v3.75h-3.75zM45.125 22.5H56.5v3.75H45.125zM37.625 22.5h3.75v3.75h-3.75zM37.625 15H56.5v3.75H37.625zM37.625 30H56.5v3.75H37.625z"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#474F54;}
+	.st1{fill:#E56A33;}
+	.st2{fill:#DADAE5;}
+	.st3{fill:#C9C9D3;}
+	.st4{fill:#EFEFF4;}
+	.st5{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M64,0v41.2l-3.8,3.9H3.8L0,41.2V0H64z"/>
+	<path class="st1" d="M64,0v41.2l-3.8,3.9H32V0H64z"/>
+	<path class="st2" d="M22.6,50.9h18.8v11.2H22.6V50.9z"/>
+	<path class="st3" d="M32,50.9h9.4v11.2H32V50.9z"/>
+	<path class="st4" d="M0,41.2h64v11.5H0V41.2z"/>
+	<path class="st2" d="M32,41.2h32v11.5H32V41.2z"/>
+	<path class="st4" d="M15.1,60.2h33.8V64H15.1V60.2z"/>
+	<path class="st2" d="M32,60.2h16.9V64H32V60.2z"/>
+	<path class="st2" d="M0,0"/>
+	<g>
+		<path class="st5" d="M45.1,7.5h11.4v3.8H45.1V7.5z M37.6,7.5h3.8v3.8h-3.8V7.5z M45.1,22.5h11.4v3.8H45.1V22.5z M37.6,22.5h3.8
+			v3.8h-3.8V22.5z M37.6,15h18.9v3.8H37.6V15z M37.6,30h18.9v3.8H37.6V30z"/>
+	</g>
+</g>
+</svg>
